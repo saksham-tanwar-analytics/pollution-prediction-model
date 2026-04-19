@@ -1,7 +1,5 @@
 # Pollution Prediction Model
 
-BSc Data Analytics — Delhi Skill & Entrepreneurship University
-
 ## Overview
 Applied machine learning algorithms and data analytics to predict and classify air quality levels, contributing to environmental awareness and public health insights.
 
